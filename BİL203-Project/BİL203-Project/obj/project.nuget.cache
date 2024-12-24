@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q6HdTm52A7IcEimn0huLrxnVQ0go25wWxTGdCxAKMeR3V9QMz/TQv3CwWQPTJ8N2BRtyakl68DDbYuf03yYu8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90505\\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\\Ekler\\Masaüstü\\210601050_Yasemin_Bahşi_Odev2\\BİL203-Project\\BİL203-Project\\BİL203-Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90505\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\90505\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\90505\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
